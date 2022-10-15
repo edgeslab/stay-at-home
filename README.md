@@ -1,4 +1,4 @@
-# Understanding Stay-at-home Attitudes through Framing Analysis of Tweets Understanding Stay-at-home Attitudes
+# Understanding Stay-at-home Attitudes through Framing Analysis of Tweets
 
 This repository contains the datasets collected and annotated for the DSAA'2022 paper: [Understanding Stay-at-home Attitudes through Framing Analysis of Tweets Understanding Stay-at-home Attitudes](https://arxiv.org/pdf/2209.05729.pdf).
 
